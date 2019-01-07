@@ -11,6 +11,7 @@ env:
   matrix:
     - CONFIG=linux_aarch64_python2.7
     - CONFIG=linux_aarch64_python3.6
+    - CONFIG=linux_aarch64_python3.7
 
 
 build:
